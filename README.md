@@ -14,7 +14,7 @@ Use our high performance parallel primitives to do standard GPU computing tasks:
  - Matrix multiplication 
  - etc. 
  
-Rely on CUDA to code custom GPU kernels on the fly. Consult the section on F# GPU Programming in the [documentation](www.aleagpu.com).
+Rely on CUDA to code custom GPU kernels on the fly. Consult the section on F# GPU Programming in the [documentation](http://www.aleagpu.com).
 
 ## Resources
 
